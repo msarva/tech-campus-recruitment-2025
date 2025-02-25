@@ -56,4 +56,4 @@ We selected **Multithreading with Buffered Reading (mmap)** because:
 5. *Execution Time Display*
    - The script will print execution time after completing log extraction.
 
-By following these steps, you can efficiently extract logs for any given date from a large log file. 🚀
+By following these steps, you can efficiently extract logs for any given date from a large log file. 
